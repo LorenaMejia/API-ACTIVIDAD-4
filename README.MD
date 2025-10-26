@@ -127,9 +127,9 @@ mobile-api-project/
 **Ejemplo JSON (POST):**
 ```json
 {
-  "firstName": "Adrián",
-  "lastName": "González",
-  "email": "adrian@example.com",
+  "firstName": "Lorena",
+  "lastName": "mejia",
+  "email": "nlmejiai@example.com",
   "password": "123456",
   "role": "admin"
 }
